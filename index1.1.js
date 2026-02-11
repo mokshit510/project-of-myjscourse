@@ -1,10 +1,13 @@
+const incrementBtn = document.getElementById('increment-btn')
+const saveBtn = document.getElementById('save-btn')
+
 let count = 0 
-function increment(){
+incrementBtn.addEventListener('click',() =>{
     count++
     document.getElementById("count-el").innerText = count
-}
-function save(){
+}) 
+saveBtn.addEventListener('click',() => {
     document.getElementById("save-el").innerText += (count+" - ")
     count=0
     document.getElementById("count-el").innerText = count
-}
+}) 
