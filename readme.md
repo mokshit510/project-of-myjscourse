@@ -74,9 +74,7 @@ Or use **VS Code Live Server** for automatic reloading during development.
 
 ## 📸 Preview
 
-```md
-![Passenger Counter App](./img/homepage.png)
-```
+<img src="./img/homepage.png" alt="Business Card Preview" width="700">
 
 ---
 
