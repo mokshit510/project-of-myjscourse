@@ -40,6 +40,8 @@ This project demonstrates the basics of JavaScript, including DOM manipulation, 
 
 ```text
 Project1.1/
+│── img
+    │── homepage.png
 │── index1.1.html
 │── index1.1.css
 │── index1.1.js
